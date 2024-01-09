@@ -1,2 +1,2 @@
 # kansym.github.io
-single site
+Hello ！这是我的GitHub站。
